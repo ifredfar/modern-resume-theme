@@ -6,38 +6,27 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: FRED FAR
+title: Telecommunications (4G/5G) & Infrastructure (On-premise & Cloud) Specialist
+email: i@fredfar.com  
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: Your website (eg. https://fredfar.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+github_username:  iFredFar
+linkedin_username: fredfar
 
 # Additional icon links
 additional_links:
 - title: Link name
   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+  url: Link url (eg. https://fredfar.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -53,12 +42,18 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+  I'm an Infrastructure Specialist and Cloud Leader at TBWA\Media Arts Lab, a renowned global advertising agency known for its partnership with iconic brands (Apple Inc).
+  With over 17 years spanning telecommunications, network engineering, and DevOps, I've overseen our agency's transition from traditional data centers to cloud platforms, primarily AWS.
+  I emphasize Infrastructure as Code (IaC) practices and adeptly handle CI/CD processes.
+  I have a rich background in 3GPP standard, LTE/4G, and 5G technologies. At Shoelace Wireless, I played a pivotal role in integrating Wi-Fi Offloading with these advanced telecommunication technologies.
+  My professional journey also includes valuable stints at industry powerhouses like Nokia, Siemens Network, and Ericsson.
+  Here, I contributed significantly to designing and deploying core network systems for 4G and 5G, fortifying my expertise and approach to cutting-edge infrastructure and cloud solutions.
+  
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - Images ![alt text](/images/5G.jpg "5G")
 
 content:
   - title: Projects # Title for the section
